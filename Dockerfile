@@ -1,5 +1,6 @@
 #Optimised Dockerfile
 
+#FROM node:14 - adds a tag for the node image
 FROM node
 
 WORKDIR /app
